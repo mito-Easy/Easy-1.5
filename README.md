@@ -77,6 +77,20 @@ HP 100
    python main.py
    ```
 3. Windows環境でBGM再生をテストする場合は、同じフォルダに `.wav` 形式の音声ファイルを配置してください。
+4. ⚠️ ライセンスと著作権について / License and Copyright
+このプロジェクトは GNU General Public License v3.0 (GPLv3) のもとで公開されています。
+
+無断転載・パクリの禁止: 本プロジェクトのコードをコピー・改変して、自身の成果物として隠蔽・独占配布することはライセンス違反です。
+ソースコード公開の義務: 本プロジェクトのコードを一部でも使用または改変して再配布する場合、その成果物のソースコードも完全にGPLv3で公開する義務が発生します。
+著作権表示の義務: コードを利用・改変する際は、必ず原作者（minaton）の著作権表示を残す必要があります。
+悪質な無断転載やライセンス違反を発見した場合は、GitHubへのDMCAテイクダウン申請（強制削除申し立て）を含めた法的措置を即座に講じます。
+
+This project is licensed under the GNU General Public License v3.0 (GPLv3).
+
+Copyleft: Any derivative work or modifications of this source code must also be open-sourced under the GPLv3.
+Attribution: You must retain the original copyright notice and give appropriate credit to the author.
+Unauthorized copying, distribution, or plagiarism without complying with the GPLv3 terms will result in an immediate DMCA takedown notice to GitHub.
+Copyright (c) 2026 minaton
 
 # Easy-1.5
 The execution size was small, so I added and modified eight types of program code. 
